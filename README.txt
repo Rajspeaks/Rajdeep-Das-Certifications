@@ -7,4 +7,5 @@ Visit my Twitter handle at https://twitter.com/itsrajdeepdas
 Visit my Personal blog at https://iamrajdeepdas.wordpress.com
 Visit my Tech-blog TheTechLearner at https://thetechlearner.wordpress.com
 Visit my Cyber-Security blog HackiTalki at https://hackitalki.home.blog
+Visit my Machine Learning/Natural Language Processing blog at https://iamrajdeepdas.blogspot.com
 Thanks for landing here.
