@@ -4,7 +4,7 @@ No pull request or fork is applicable.
 Visit my resume site at https://rajdeepdascv.netlify.app 
 Visit my LinkedIn Profile at https://linkedin.com/in/itsrajdeepdas
 Visit my Twitter handle at https://twitter.com/itsrajdeepdas
-Visit my Personal blog at https://iamrajdeepdas.wordpress.com
+Visit my Personal blog at https://iamrajdeep.wordpress.com
 Visit my Tech-blog TheTechLearner at https://thetechlearner.wordpress.com
 Visit my Cyber-Security blog HackiTalki at https://hackitalki.home.blog
 Visit my Machine Learning/Natural Language Processing blog at https://iamrajdeepdas.blogspot.com
