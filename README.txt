@@ -9,4 +9,5 @@ Visit my Personal blog at https://iamrajdeep.wordpress.com
 Visit my Tech-blog TheTechLearner at https://thetechlearner.wordpress.com
 Visit my Cyber-Security blog HackiTalki at https://hackitalki.home.blog
 Visit my Machine Learning/Natural Language Processing blog at https://iamrajdeepdas.blogspot.com
+Visit my Google Cloud Badges https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e
 Thanks for landing here.
