@@ -2,6 +2,7 @@
 This repositary consists of all the certificates, list of achievements- achieved by Rajdeep Das.
 No pull request or fork is applicable. 
 Visit my resume site at https://rajdeepdascv.netlify.app 
+Visit my personal site at https://rajspeaks.github.io
 Visit my LinkedIn Profile at https://linkedin.com/in/itsrajdeepdas
 Visit my Twitter handle at https://twitter.com/itsrajdeepdas
 Visit my Personal blog at https://iamrajdeep.wordpress.com
