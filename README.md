@@ -1,8 +1,9 @@
-# Rajdeep_Das_Certifications_Achievements
+# Rajdeep Das: Certifications | Achievements | Honours | Rewards | 
 
-This repositary consists of all the certificates, list of achievements- achieved by Rajdeep Das.
+This repositary consists of all the certificates, list of achievements achieved by Rajdeep Das.
 
 No pull request or fork is applicable. 
+------------------------------------------------------------------------
 
 Visit my resume site at https://rajdeepdascv.netlify.app 
 
