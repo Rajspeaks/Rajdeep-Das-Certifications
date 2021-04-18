@@ -1,4 +1,4 @@
-# Rajdeep Das: Certifications | Achievements | Honours | Rewards | Appreciations | Acknowledgements | Recognition | Merits | Speecial Mentions
+# Rajdeep Das: Certifications | Achievements | Honours | Rewards | Appreciations | Acknowledgements | Recognition | Merits | Special Mentions
 
 This repositary consists of all the certificates, list of achievements bagged by Rajdeep Das.
 
