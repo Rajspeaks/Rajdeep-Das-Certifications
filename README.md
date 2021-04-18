@@ -23,6 +23,8 @@ Visit my Machine Learning/Natural Language Processing blog at https://iamrajdeep
 
 Visit my Google Cloud Badges https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e
 
-Thanks for landing here.
+---------------------------------------------------------------------------------------------------------------------------
+
+# Thanks for landing here.
 
 https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements
