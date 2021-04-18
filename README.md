@@ -1,5 +1,12 @@
 # Rajdeep Das: Certifications | Achievements | Honours | Rewards | Appreciations | Acknowledgements | Recognition | Merits | Special Mentions
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Header-Certification.jpg"> 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Welcome
+
 This repositary consists of all the certificates, list of achievements bagged by Rajdeep Das.
 
 No pull request or fork is applicable. 
