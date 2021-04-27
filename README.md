@@ -17,13 +17,7 @@ No pull request or fork is applicable.
 <h3>Google Goodies</h3>
 
 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/132203060_1006134366464320_4928897964368663583_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131979959_1006134659797624_8609151351469187757_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/138925729_1021094984968258_591106998149185507_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131975097_1006134809797609_324406025711554691_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131940366_1006134733130950_5150161455432761198_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131940366_1006134419797648_738223068297823028_n.jpg" height="500" width="500"> 
-<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131895849_1006134466464310_8520566935290158586_n.jpg" height="500" width="500"> 
+<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/132203060_1006134366464320_4928897964368663583_n.jpg" height="200" width="250"> <img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131979959_1006134659797624_8609151351469187757_n.jpg" height="200" width="250"> <img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/138925729_1021094984968258_591106998149185507_n.jpg" height="200" width="250"> <img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131975097_1006134809797609_324406025711554691_n.jpg" height="200" width="250"> &nbsp; <img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131940366_1006134733130950_5150161455432761198_n.jpg" height="200" width="250"> &nbsp;<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131940366_1006134419797648_738223068297823028_n.jpg" height="200" width="250"> &nbsp;<img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Google%20Certifications/131895849_1006134466464310_8520566935290158586_n.jpg" height="200" width="250"> 
 
 
 Visit my Web-resume portal at https://rajdeepdascv.netlify.app 
