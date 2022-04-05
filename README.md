@@ -10,6 +10,6 @@
 This repositary consists of all of my course completion certificates.
 
 
-# Thanks you !
+#### Thank you !
 
 &copy; Rajdeep Das
