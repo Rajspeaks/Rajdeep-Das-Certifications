@@ -1,4 +1,4 @@
-# Certifications | Achievements | Honours | Rewards | Appreciations | Acknowledgements | Recognition | Merits | Special Mentions
+# Certifications | Rajdeep Das
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements/blob/main/Header-Certification.jpg"> 
@@ -7,8 +7,7 @@
 
 <h2> Welcome 👨‍💻 </h2>
 
-This repositary consists of all the certificates, list of achievements, honours.
- 
+This repositary consists of all of my course completion certificates.
 ----------------------------------------------------------------------------------------
 
 <h2> Catch me around the Internet </h2>
